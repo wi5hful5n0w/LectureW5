@@ -3,4 +3,5 @@
 void foo2()
 {
 	printf("foo2 called.\n");
+	printf("Force Conflited !!!!!!\n");
 }
