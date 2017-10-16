@@ -2,5 +2,5 @@
 #include "func1.h"
 void foo1()
 {
-	printf("foo1 called.\n");
+	printf("Hi There my name is Ryan.\n");
 }
