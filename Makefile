@@ -1,4 +1,4 @@
-.PHONY: all clean
+.PHONY: all clean info
 DIRS = lib myapp
 
 all:
